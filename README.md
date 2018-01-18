@@ -1,2 +1,2 @@
 # Multi-object-recognition
-This project replicates the findings of the paper Multiple object recognition with visual attention. It is currently used to recognize multiple digits in images modified from the MNIST database.
+This project replicates the findings of the paper Multiple object recognition with visual attention at https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjtm4X_leLYAhVD0FMKHZdRBFQQFggsMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1412.7755&usg=AOvVaw3ZYTFfdaDeyeVJrSwf7_ye . It is currently used to recognize multiple digits in images modified from the MNIST database.
